@@ -1,8 +1,8 @@
-# <img src="https://www.android.com/static/img/logos-2x/android-wordmark-8EC047.png" height="22"/>MVP [![](https://jitpack.io/v/LNSD/mvp.svg)](https://jitpack.io/#LNSD/mvp)
+# <img src="https://www.android.com/static/img/logos-2x/android-wordmark-8EC047.png" height="24"/>MVP 
 
 A basic, simple and flexible framework for <img src="https://www.android.com/static/img/logos-2x/android-wordmark-8EC047.png" height="12"/>. My way into [MVP pattern](https://github.com/googlesamples/android-architecture/tree/todo-mvp/). 
 
-##How to include in your project:
+##How to include in your project
 
 **Step 1.** Add the JitPack repository to your project `build.gradle` file:
 
